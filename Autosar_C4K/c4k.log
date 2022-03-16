@@ -1,0 +1,3 @@
+70   [main] INFO  c.k.c.c.logging.LogbackConfigurator - Logback has been successfully configured with input from %s.
+79   [main] INFO  c.k.c.c.logging.LogbackConfigurator - Logback has been successfully configured with input from %s.
+92   [main] INFO  c.k.c.c.logging.LogbackConfigurator - Logback has been successfully configured with input from %s.

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="utils.SuiteListner"></listener>
+</listeners>
+<test name="Test Automation">
+<classes>
+      <class name="manualTestCase.Redmine_61761"/>
+      <class name="manualTestCase.Redmine_61762"/>
+      <class name="manualTestCase.Redmine_64921"/>
+      <class name="manualTestCase.Group_By"/>
+      <class name="manualTestCase.Sorting"/>
+       
+      
+</classes>
+ <!-- Test -->
+ </test>
+</suite> <!-- Suite -->

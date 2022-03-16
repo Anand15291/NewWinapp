@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="TargetARXMLPath">
+		<item value="D:\Orginal_Automation\winappdriver_automation\Autosar_C4K\ImportProject\AR_1014\Project_Redmine\default.arxml" key="EcuExtractSetting"/>
+	</section>
+	<section name="ReportDestinationPath">
+		<item value="" key="ReportDestinationPathSetting"/>
+	</section>
+</section>

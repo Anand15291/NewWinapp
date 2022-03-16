@@ -17,8 +17,8 @@ variables:
 name: $(date:yyyy).$(Month)$(rev:.r).0
 
 steps:
-- task: VersionAPPX@2
-  displayName: 'Version MSIX'
+# - task: VersionAPPX@2
+#   displayName: 'Version MSIX'
 
 - task: VSBuild@1
   inputs:
